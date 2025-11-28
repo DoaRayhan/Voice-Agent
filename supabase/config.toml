@@ -1,0 +1,13 @@
+project_id = "pwdxegnmmihczqzxuhss"
+
+[functions.speech-to-text]
+verify_jwt = false
+
+[functions.process-llm]
+verify_jwt = false
+
+[functions.text-to-speech]
+verify_jwt = false
+
+[functions.send-confirmation-email]
+verify_jwt = false
